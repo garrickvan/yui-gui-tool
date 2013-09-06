@@ -1,7 +1,7 @@
 yui-compressor-gui-tool
 =======================
 
-a simple tool wrap yui compressor by java swing.
+a simple tool wrap yui compressor 2.4.7 by java swing.
 
 it provide tree way to handle css and js file after compress. 
 
